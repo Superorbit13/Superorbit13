@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Superorbit13
-- 👀 I’m interested in seeing if the hype about github is right
-- 🌱 I’m currently learning java I guess
+- 👀 I'm in interested in AI and robotics
+- 🌱 I’m currently learning how to make GUI's in java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord: Superorbit#6546
 
